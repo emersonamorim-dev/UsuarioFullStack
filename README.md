@@ -4,6 +4,6 @@ Crud de Usuário API codificado em Csharp o Backend programado usando o Framewor
 informações do Banco de Dados.
 
 O Frontend foi codificado usando Angular 13 programado em Typesscript e Javascript usando Bootstrap para deixar o Frontend responsivo.
-É possível preencher o formulário de cadastro, atualizar e deletar informações com na Interface.
+É possível preencher o formulário de cadastro, atualizar e deletar informaçõesnna Interface.
 
 
